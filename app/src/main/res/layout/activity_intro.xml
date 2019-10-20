@@ -69,7 +69,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginEnd="24dp"
         android:layout_marginRight="24dp"
-        android:fontFamily="@font/mollen_bold_condensed"
+        android:fontFamily="@font/mollen_light_condensed"
         android:text="Lewati"
         android:textColor="#2d2d2d"
         android:textSize="16sp"
