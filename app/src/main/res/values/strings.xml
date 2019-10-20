@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MaMood</string>
+
+    <string name="mood_user">Mood Saya</string>
+    <string name="tambah_catatan">Tambah Catatan</string>
+    <string name="riwayat_mood">Riwayat Mood</string>
+    <string name="tampil_catatan">Tampilkan Catatan</string>
+    <string name="kemarin">Kemarin</string>
+    <string name="hari_ini">Hari Ini</string>
+    <string name="beberapa_hari">beberapa hari yang lalu</string>
+    <string name="kirim_ke">Kirim ke</string>
+
+    <plurals name="daysInHistoryScreen">
+        <item quantity="zero"></item>
+    </plurals>
+</resources>
